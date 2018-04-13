@@ -1,0 +1,43 @@
+SPESIFIKASI KEBUTUHAN PERANGKAT LUNAK
+Sistem Informasi Pemesanan Tempat Futsal
+
+Alvan Nahari	15053560
+Artiko Fajar S.	15053560
+Dyanrosa Debora	150535604820
+
+Dokumen ini berisi mengenai ......
+
+1. Pendahuluan
+ a. Tujuan
+....
+ b. Ruang Lingkup Perangkat Lunak
+...
+
+ c. Target Audience
+...
+
+
+2. Deskripsi Umum
+a. Tentang Perangkat Lunak
+
+b. Fungsi-fungsi Perangkat Lunak
+
+
+c. Karakteristik dan Klasifikasi Pengguna
+
+d. Lingkungan Operasi
+
+e. Batasan Desain dan Implementasi
+
+
+3. Kebutuhan Antar Muka Eksternal
+
+4. Fitur Sistem
+
+
+5. Kebutuhan NonFungsional Lainnya
+
+6.
+
+
+
