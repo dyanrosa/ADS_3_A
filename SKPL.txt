@@ -41,6 +41,18 @@ e. Batasan Desain dan Implementasi
 3. Kebutuhan Antar Muka Eksternal
 
 4. Fitur Sistem
+- Login : berfungsi untuk me-load data diri atau data akun user
+- Register : berfungsi untuk mendaftarkan akun user baru
+- forget password : berfungsi untuk memberikan layanan lupa password akun
+- Beranda : berfungsi untuk menampilkan seluruh tempat futsal yang tersedia, termasuk pada menu promo dan event.
+- Search : berfungsi mencari tempat futsal berdasarkan apa yang diinputkan oleh user
+- Filter : berfungsi menyaring informasi tempat futsal meliputi kelompok harga, lokasi, jam operasi (jam buka dan tutup) serta informasi booking tempat.
+- Room : berfungsi sebagai tempat berkumpul user yang akan bermain dalam satu lapangan
+- Locked Room : berfungsi untuk mengunci room dengan tujuan menyeleksi pemain yang ingin bergabung oleh room master
+- Profil : berisi tentang informasi akun user, meliputi nama, posisi pemain, rating dan info kontak user.
+- Booking : berfungsi untuk melakukan booking tempat futsal
+- Join : berfungsi untuk bergabung pada room
+- Logout : berfungsi untuk mengeluarkan akun dari aplikasi
 
 
 5. Kebutuhan NonFungsional Lainnya
