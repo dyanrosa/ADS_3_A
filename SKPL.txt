@@ -9,7 +9,8 @@ Dokumen ini berisi mengenai ......
 
 1. Pendahuluan
  a. Tujuan
-....
+Tujuan dari aplikasi ini "Lastuf" adalah memberikan jasa berupa layanan seputar pre-futsal meliputi pemesanan tempat, informasi tempat futsal (lokasi, harga, jam operasi), dan serta mencari pemain atau bergabung dengan tim. Dengan aplikasi ini, diharapkan akan mempermudah user untuk melakukan kegiatan pre-futsal seperti booking tempat, mencari pemain dan mencari lokasi.
+
  b. Ruang Lingkup Perangkat Lunak
 ...
 
