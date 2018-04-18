@@ -2,7 +2,7 @@ SPESIFIKASI KEBUTUHAN PERANGKAT LUNAK
 Sistem Informasi Pemesanan Tempat Futsal
 
 Alvan Nahari	15053560
-Artiko Fajar S.	15053560
+Artiko Fajar S.	150535605153
 Dyanrosa Debora	150535604820
 
 Dokumen ini berisi mengenai ......
@@ -15,13 +15,20 @@ Tujuan dari aplikasi ini "Lastuf" adalah memberikan jasa berupa layanan seputar 
 ...
 
  c. Target Audience
-...
+	1. User yang ingin memesan tempat futsal tanpa harus ke lokasi
+	2. User yang mencari anggota untuk bermain futsal bersama
+	2. User yang ingin mengetahui informasi tempat futsal
 
 
 2. Deskripsi Umum
 a. Tentang Perangkat Lunak
+Lastuf merupakan aplikasi mobile yang memberikan jasa berupa layanan seputar kegiatan sebelum melakukan futsal(pre-futsal) meliputi booking tempat tanpa harus jauh-jauh ke lokasi, menemukan informasi tempat futsal tersebut, serta menemukan atau mencari pemain untuk bermain futsal bersama
 
 b. Fungsi-fungsi Perangkat Lunak
+1. memesan tempat untuk bermain futsal tanpa harus ke lokasi
+2. menemukan atau mencari pemain futsal untuk bermain bersama
+3. memberikan informasi seputar tempat futsal (meliputi harga, jam operasi, lokasi dan daftar lapangan untuk di booking atapun yang sudah di booking)
+4. memberikan layanan pre-futsal
 
 
 c. Karakteristik dan Klasifikasi Pengguna
