@@ -1,4 +1,4 @@
-SPESIFIKASI KEBUTUHAN PERANGKAT LUNAK
+ SPESIFIKASI KEBUTUHAN PERANGKAT LUNAK
 Sistem Informasi Pemesanan Tempat Futsal
 
 Alvan Nahari	15053560
@@ -56,6 +56,11 @@ e. Batasan Desain dan Implementasi
 
 
 5. Kebutuhan NonFungsional Lainnya
+- Pencarian tim futsal
+- Interaksi antar user dan sistem
+- Sistem harus menerima informasi terbaru
+- Room Master
+- Informasi User
 
 6.
 
