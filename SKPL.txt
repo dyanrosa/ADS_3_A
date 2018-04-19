@@ -9,10 +9,10 @@ Dokumen ini berisi mengenai ......
 
 1. Pendahuluan
  a. Tujuan
-Tujuan dari aplikasi ini "Lastuf" adalah memberikan jasa berupa layanan seputar pre-futsal meliputi pemesanan tempat, informasi tempat futsal (lokasi, harga, jam operasi), dan serta mencari pemain atau bergabung dengan tim. Dengan aplikasi ini, diharapkan akan mempermudah user untuk melakukan kegiatan pre-futsal seperti booking tempat, mencari pemain dan mencari lokasi.
+Penjabaran spesifikasi perangkat lunak meliputi deskripsi umum perangkat lunak dan deskripsi kebutuhan perangkat lunak. Perangkat lunak atau aplikasi yang akan dibangun berbasis mobile dengan aplikasi bernama Lastuf. Tujuan dari aplikasi ini "Lastuf" adalah memberikan jasa berupa layanan seputar pre-futsal meliputi pemesanan tempat, informasi tempat futsal (lokasi, harga, jam operasi), dan serta mencari pemain atau bergabung dengan tim.Dengan aplikasi ini, diharapkan akan mempermudah user untuk melakukan kegiatan pre-futsal seperti booking tempat, mencari pemain dan mencari lokasi.
 
  b. Ruang Lingkup Perangkat Lunak
-...
+Lastuf adalah sebuah aplikasi berbasis mobile yang mempunyai fungsi utama dalam pre-futsal. Pengguna perangkat lunak dapat melakukan pendaftaran, sign in, melihat jadwal pertandingan, memesan tempat sesuai waktu yang diinginkan, membuat room, mengelola room, melihat informasi pemain. Sistem ini dikelola oleh seorang admin yang bertugas memperbaharui jadwal pertandingan, data user terdaftar, dan data pemesanan. Data-data yang dikelola admin dipertanggungjawabkan kepada pihak Developer di mana seorang manajer dari pihak Developer akan mengunjungi tempat futsal dan melakukan observasi serta meminta laporan pertanggungjawaban
 
  c. Target Audience
 	1. User yang ingin memesan tempat futsal tanpa harus ke lokasi
