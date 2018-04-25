@@ -32,7 +32,19 @@ b. Fungsi-fungsi Perangkat Lunak
 
 
 c. Karakteristik dan Klasifikasi Pengguna
+1. User
+-Tugas : Melihat jadwal dan lokasi , Memesan tempat futsal
+-Hak Akses ke Aplikasi : Sign in sebagai user
 
+2. Pemilik Tempat Futsal
+-Tugas : Mengkonfirmasi pemesanan
+-Hak Akses ke Aplikasi : Sign in sebagai pemilik futsal, Merubah jadwal
+
+3. Admin
+-Tugas : Melakukan edit informasi tempat futsal
+-Hak Akses ke Aplikasi : Sign in sebagai admin
+
+3. Admin :
 d. Lingkungan Operasi
 
 e. Batasan Desain dan Implementasi
