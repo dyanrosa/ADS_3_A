@@ -144,15 +144,12 @@
                     android:layout_margin="5dp"
                     android:background="#3dc6c1c1"
                     android:orientation="vertical"
-                    android:padding="10dp"
-                    layout>
-
-                    <View
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content">
-                    </View>
-
+                    android:padding="10dp">
                 </LinearLayout>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+                
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="120dp"
