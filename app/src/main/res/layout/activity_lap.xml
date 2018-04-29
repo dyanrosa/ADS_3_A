@@ -82,84 +82,11 @@
                 android:background="#8579e3">
 
                 //List array Adapter
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="5dp"
-                    android:orientation="horizontal"
-                    android:background="#def7f6ff">
 
-                    <TextView
-                        android:layout_margin="5dp"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:text="08.00 - 09.00"
-                        android:textSize="25dp"
-                        android:textColor="#282828"/>
-
-                    <LinearLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:gravity="right"
-                        android:orientation="horizontal">
-
-                        <Button
-                            android:layout_width="50dp"
-                            android:layout_height="wrap_content"
-                            android:layout_marginRight="10dp"
-                            android:background="@drawable/ic_error_outline_black_24dp"/>
-
-                        <Button
-                            android:layout_width="wrap_content"
-                            android:layout_height="match_parent"
-                            android:layout_margin="3dp"
-                            android:text="Pesan"
-                            android:textColor="#fff"
-                            android:textSize="15dp"
-                            android:background="#e44132b6"/>
-
-                    </LinearLayout>
-
-                </LinearLayout>
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="5dp"
-                    android:orientation="horizontal"
-                    android:background="#def7f6ff">
-
-                    <TextView
-                        android:layout_margin="5dp"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:text="08.00 - 09.00"
-                        android:textSize="25dp"
-                        android:textColor="#282828"/>
-
-                    <LinearLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:gravity="right"
-                        android:orientation="horizontal">
-
-                        <Button
-                            android:layout_width="50dp"
-                            android:layout_height="wrap_content"
-                            android:layout_marginRight="10dp"
-                            android:background="@drawable/ic_error_outline_black_24dp"/>
-
-                        <Button
-                            android:layout_width="wrap_content"
-                            android:layout_height="match_parent"
-                            android:layout_margin="3dp"
-                            android:text="Pesan"
-                            android:textColor="#fff"
-                            android:textSize="15dp"
-                            android:background="#e44132b6"/>
-
-                    </LinearLayout>
-
-                </LinearLayout>
+                <include layout="@layout/inc_lap_status"/>
+                <include layout="@layout/inc_lap_status"/>
+                <include layout="@layout/inc_lap_status"/>
+                <include layout="@layout/inc_lap_status"/>
 
             </LinearLayout>
 

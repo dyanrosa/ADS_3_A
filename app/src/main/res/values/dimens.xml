@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="statistics_font_size">20dp</dimen>
-    <dimen name="beranda_font_size">60dp</dimen>
+    <dimen name="statistics_font_size">20sp</dimen>
+    <dimen name="beranda_font_size_waktu">17dp</dimen>
+    <dimen name="beranda_font_size_nama">30dp</dimen>
+    <dimen name="beranda_font_size_tempat">20dp</dimen>
 </resources>

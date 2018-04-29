@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     xmlns:layout="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
-    android:background="#877ae5">
+    android:background="@color/colorPrimaryDark">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -133,11 +133,21 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:background="#8679e4"
+                android:background="@color/colorPrimary"
                 android:orientation="vertical"
                 android:padding="10dp">
 
                 //List array Adapter
+                <include
+                    android:id="@+id/first_semua_layer"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    layout="@layout/inc_beranda_semua"/>
+                <include
+                    android:id="@+id/first_semua_layer"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    layout="@layout/inc_beranda_semua"/>
                 <include
                     android:id="@+id/first_semua_layer"
                     android:layout_width="match_parent"
