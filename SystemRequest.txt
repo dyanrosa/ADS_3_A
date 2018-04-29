@@ -1,0 +1,16 @@
+> System Request
+- Project Sponsor : Pemilik lapangan Futsal
+- Business Needs : Informasi lokasi dan jadwal futsal
+- Business Requirement :
+	1. Fasilitas pemesanan
+	2. Informasi pertandingan yang transparan 
+	3. Informasi lokasi, fasilitas, harga, jadwal, dan lain-lain.
+	4. Pendaftaran tim & pengelolaannya
+	5. Perijinan user masuk tim
+- Business Value :
+	1. Lebih mengenal tim lain (tidak langsung)
+	2. Memudahkan pemesanan (efek langsung)
+	3. Mempersingkat waktu antar pertandingan (efek langsung)
+-Special Issue :
+	1. Sistem dibangun dengan platform android
+	2. Sistem memberi informasi promo

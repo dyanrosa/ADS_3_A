@@ -1,0 +1,18 @@
+> Functional Requirements
+1. Sistem harus memeriksa ketersediaan lapangan atau informasi tempat futsal saat itu.
+2. Sistem harus mengijinkan user terdaftar untuk melihat jadwal pertandingan.
+3. Sistem harus memberikan informasi pemain secara real-time.
+4. Sistem harus memperbolehkan user terdaftar untuk membuat jadwal pertandingan.
+5. Sistem harus mengijinkan Room Master untuk mengelola pertandingan.
+6. Sistem harus menolak permintaan pertandingan user yang dijadwalkan pada waktu yang sama
+7. Sistem harus menyediakan rekomendasi jadwal pertandingan.
+8. Sistem harus meminta review pada pengelola futsal atas user (tim).
+9. Sistem dapat dan/atau harus memberikan sanksi kepada user yang melanggar peraturan.
+
+> Non-Functional Requirements
+1. Pencarian tim futsal lebih cepat.
+2. Interaksi antar user dan sistem tidak boleh lebih dari 2 detik.
+3. Sistem harus menerima informasi terbaru setiap 5 menit.
+4. Hanya Room Master yang bisa mengelola pertandingan.
+5. User dapat melihat riwayat pertandingannya sendiri serta user lain.
+6. Sistem harus dapat membedakan antara info laki-laki dan perempuan serta spesialis pemain.

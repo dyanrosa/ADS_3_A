@@ -1,0 +1,98 @@
+ SPESIFIKASI KEBUTUHAN PERANGKAT LUNAK
+Sistem Informasi Pemesanan Tempat Futsal
+
+Alvan Nahari	15053560
+Artiko Fajar S.	150535605153
+Dyanrosa Debora	150535604820
+
+Dokumen ini berisi mengenai ......
+
+1. Pendahuluan
+ a. Tujuan
+Penjabaran spesifikasi perangkat lunak meliputi deskripsi umum perangkat lunak dan deskripsi kebutuhan perangkat lunak. Perangkat lunak atau aplikasi yang akan dibangun berbasis mobile dengan aplikasi bernama Lastuf. Tujuan dari aplikasi ini "Lastuf" adalah memberikan jasa berupa layanan seputar pre-futsal meliputi pemesanan tempat, informasi tempat futsal (lokasi, harga, jam operasi), dan serta mencari pemain atau bergabung dengan tim.Dengan aplikasi ini, diharapkan akan mempermudah user untuk melakukan kegiatan pre-futsal seperti booking tempat, mencari pemain dan mencari lokasi.
+
+ b. Ruang Lingkup Perangkat Lunak
+Lastuf adalah sebuah aplikasi berbasis mobile yang mempunyai fungsi utama dalam pre-futsal. Pengguna perangkat lunak dapat melakukan pendaftaran, sign in, melihat jadwal pertandingan, memesan tempat sesuai waktu yang diinginkan, membuat room, mengelola room, melihat informasi pemain. Sistem ini dikelola oleh seorang admin yang bertugas memperbaharui jadwal pertandingan, data user terdaftar, dan data pemesanan. Data-data yang dikelola admin dipertanggungjawabkan kepada pihak Developer di mana seorang manajer dari pihak Developer akan mengunjungi tempat futsal dan melakukan observasi serta meminta laporan pertanggungjawaban
+
+ c. Target Audience
+	1. User yang ingin memesan tempat futsal tanpa harus ke lokasi
+	2. User yang mencari anggota untuk bermain futsal bersama
+	2. User yang ingin mengetahui informasi tempat futsal
+
+
+2. Deskripsi Umum
+a. Tentang Perangkat Lunak
+Lastuf merupakan aplikasi mobile yang memberikan jasa berupa layanan seputar kegiatan sebelum melakukan futsal(pre-futsal) meliputi booking tempat tanpa harus jauh-jauh ke lokasi, menemukan informasi tempat futsal tersebut, serta menemukan atau mencari pemain untuk bermain futsal bersama
+
+b. Fungsi-fungsi Perangkat Lunak
+1. memesan tempat untuk bermain futsal tanpa harus ke lokasi
+2. menemukan atau mencari pemain futsal untuk bermain bersama
+3. memberikan informasi seputar tempat futsal (meliputi harga, jam operasi, lokasi dan daftar lapangan untuk di booking atapun yang sudah di booking)
+4. memberikan layanan pre-futsal
+
+
+c. Karakteristik dan Klasifikasi Pengguna
+1. User
+-Tugas : Melihat jadwal dan lokasi , Memesan tempat futsal
+-Hak Akses ke Aplikasi : Sign in sebagai user
+
+2. Pemilik Tempat Futsal
+-Tugas : Mengkonfirmasi pemesanan
+-Hak Akses ke Aplikasi : Sign in sebagai pemilik futsal, Merubah jadwal
+
+3. Admin
+-Tugas : Melakukan edit informasi tempat futsal
+-Hak Akses ke Aplikasi : Sign in sebagai admin
+
+3. Admin :
+d. Lingkungan Operasi
+
+e. Batasan Desain dan Implementasi
+
+
+3. Kebutuhan Antar Muka Eksternal
+A. Functional Requirements
+	1. Sistem harus memeriksa ketersediaan lapangan atau informasi tempat futsal saat itu.
+	2. Sistem harus mengijinkan user terdaftar untuk melihat jadwal pertandingan.
+	3. Sistem harus memberikan informasi pemain secara real-time.
+	4. Sistem harus memperbolehkan user terdaftar untuk membuat jadwal pertandingan.
+	5. Sistem harus mengijinkan Room Master untuk mengelola pertandingan.
+	6. Sistem harus menolak permintaan pertandingan user yang dijadwalkan pada waktu yang sama
+	7. Sistem harus menyediakan rekomendasi jadwal pertandingan.
+	8. Sistem harus meminta review pada pengelola futsal atas user (tim).
+	9. Sistem dapat dan/atau harus memberikan sanksi kepada user yang melanggar peraturan.
+
+B. Non-Functional Requirements
+	1. Pencarian tim futsal lebih cepat.
+	2. Interaksi antar user dan sistem tidak boleh lebih dari 2 detik.
+	3. Sistem harus menerima informasi terbaru setiap 5 menit.
+	4. Hanya Room Master yang bisa mengelola pertandingan.
+	5. User dapat melihat riwayat pertandingannya sendiri serta user lain.
+	6. Sistem harus dapat membedakan antara info laki-laki dan perempuan serta spesialis pemain.
+
+4. Fitur Sistem
+- Login : berfungsi untuk me-load data diri atau data akun user
+- Register : berfungsi untuk mendaftarkan akun user baru
+- forget password : berfungsi untuk memberikan layanan lupa password akun
+- Beranda : berfungsi untuk menampilkan seluruh tempat futsal yang tersedia, termasuk pada menu promo dan event.
+- Search : berfungsi mencari tempat futsal berdasarkan apa yang diinputkan oleh user
+- Filter : berfungsi menyaring informasi tempat futsal meliputi kelompok harga, lokasi, jam operasi (jam buka dan tutup) serta informasi booking tempat.
+- Room : berfungsi sebagai tempat berkumpul user yang akan bermain dalam satu lapangan
+- Locked Room : berfungsi untuk mengunci room dengan tujuan menyeleksi pemain yang ingin bergabung oleh room master
+- Profil : berisi tentang informasi akun user, meliputi nama, posisi pemain, rating dan info kontak user.
+- Booking : berfungsi untuk melakukan booking tempat futsal
+- Join : berfungsi untuk bergabung pada room
+- Logout : berfungsi untuk mengeluarkan akun dari aplikasi
+
+
+5. Kebutuhan NonFungsional Lainnya
+- Pencarian tim futsal
+- Interaksi antar user dan sistem
+- Sistem harus menerima informasi terbaru
+- Room Master
+- Informasi User
+
+6.
+
+
+

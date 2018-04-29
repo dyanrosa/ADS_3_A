@@ -1,0 +1,20 @@
+USECASE
+1. User
+- Melakukan login user
+- Mencari tempat futsal
+- Memilih tanggal
+- Melihat jadwal
+- Membuat room
+- Mengkonfirmasi user join
+- Melihat profil pemain lain
+- Melaporkan pemain
+
+2. Admin Tempat Futsal
+- Melakukan login pemilik
+- Mengkonfirmasi pertandingan
+- Mengatur jadwal pertandingan
+- Memberi rating room master
+
+3. Admin Aplikasi
+- Melakukan update informasi tempat futsal
+- Menangguhkan akun user terlapor
