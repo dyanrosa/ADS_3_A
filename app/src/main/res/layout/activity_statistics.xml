@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
@@ -44,16 +45,18 @@
         android:gravity="center"
         android:padding="5dp">
 
-        <RatingBar
+        <android.support.v7.widget.AppCompatRatingBar
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:numStars="7"
-            android:visibility="visible" />
+            android:rating="5.5"
+            android:stepSize="0.5" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Lihat review ?"/>
+            android:text="Lihat review ?"
+            android:textSize="15sp"/>
 
     </LinearLayout>
 
@@ -65,7 +68,7 @@
 
         <ImageView
             android:layout_width="match_parent"
-            android:layout_height="200dp"
+            android:layout_height="300dp"
             android:src="@drawable/ic_account_circle_black_24dp"/>
 
     </LinearLayout>
@@ -87,17 +90,17 @@
                 android:layout_width="150dp"
                 android:layout_height="wrap_content"
                 android:text="Umur"
-                android:textSize="25dp"/>
+                android:textSize="@dimen/statistics_font_size" />
             <TextView
                 android:layout_width="20dp"
                 android:layout_height="wrap_content"
                 android:text=" : "
-                android:textSize="25dp"/>
+                android:textSize="@dimen/statistics_font_size"/>
             <TextView
                 android:layout_width="150dp"
                 android:layout_height="wrap_content"
                 android:text="21"
-                android:textSize="25dp"/>
+                android:textSize="@dimen/statistics_font_size"/>
 
         </LinearLayout>
         <LinearLayout
@@ -110,17 +113,17 @@
                 android:layout_width="150dp"
                 android:layout_height="wrap_content"
                 android:text="Posisi"
-                android:textSize="25dp"/>
+                android:textSize="@dimen/statistics_font_size"/>
             <TextView
                 android:layout_width="20dp"
                 android:layout_height="wrap_content"
                 android:text=" : "
-                android:textSize="25dp"/>
+                android:textSize="@dimen/statistics_font_size"/>
             <TextView
                 android:layout_width="150dp"
                 android:layout_height="wrap_content"
                 android:text="Striker"
-                android:textSize="25dp"/>
+                android:textSize="@dimen/statistics_font_size"/>
 
         </LinearLayout>
         <LinearLayout
@@ -133,17 +136,17 @@
                 android:layout_width="150dp"
                 android:layout_height="wrap_content"
                 android:text="Asal"
-                android:textSize="25dp"/>
+                android:textSize="@dimen/statistics_font_size"/>
             <TextView
                 android:layout_width="20dp"
                 android:layout_height="wrap_content"
                 android:text=" : "
-                android:textSize="25dp"/>
+                android:textSize="@dimen/statistics_font_size"/>
             <TextView
                 android:layout_width="150dp"
                 android:layout_height="wrap_content"
                 android:text= "Blitar"
-                android:textSize="25dp"/>
+                android:textSize="@dimen/statistics_font_size"/>
 
         </LinearLayout>
         <LinearLayout
@@ -156,17 +159,17 @@
                 android:layout_width="150dp"
                 android:layout_height="wrap_content"
                 android:text="TIM"
-                android:textSize="25dp"/>
+                android:textSize="@dimen/statistics_font_size"/>
             <TextView
                 android:layout_width="20dp"
                 android:layout_height="wrap_content"
                 android:text=" : "
-                android:textSize="25dp"/>
+                android:textSize="@dimen/statistics_font_size"/>
             <TextView
                 android:layout_width="150dp"
                 android:layout_height="wrap_content"
                 android:text= "ELEKTTRON"
-                android:textSize="25dp"/>
+                android:textSize="@dimen/statistics_font_size"/>
 
         </LinearLayout>
         <LinearLayout
@@ -179,17 +182,17 @@
                 android:layout_width="150dp"
                 android:layout_height="wrap_content"
                 android:text="Match"
-                android:textSize="25dp"/>
+                android:textSize="@dimen/statistics_font_size"/>
             <TextView
                 android:layout_width="20dp"
                 android:layout_height="wrap_content"
                 android:text=" : "
-                android:textSize="25dp"/>
+                android:textSize="@dimen/statistics_font_size"/>
             <TextView
                 android:layout_width="150dp"
                 android:layout_height="wrap_content"
                 android:text= "1032"
-                android:textSize="25dp"/>
+                android:textSize="@dimen/statistics_font_size"/>
 
         </LinearLayout>
         <LinearLayout
@@ -202,17 +205,17 @@
                 android:layout_width="150dp"
                 android:layout_height="wrap_content"
                 android:text="Match Cup"
-                android:textSize="25dp"/>
+                android:textSize="@dimen/statistics_font_size"/>
             <TextView
                 android:layout_width="20dp"
                 android:layout_height="wrap_content"
                 android:text=" : "
-                android:textSize="25dp"/>
+                android:textSize="@dimen/statistics_font_size"/>
             <TextView
                 android:layout_width="150dp"
                 android:layout_height="wrap_content"
                 android:text= "141"
-                android:textSize="25dp"/>
+                android:textSize="@dimen/statistics_font_size"/>
 
         </LinearLayout>
 
