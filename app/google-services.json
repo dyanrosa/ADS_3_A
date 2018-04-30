@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "547034874066",
+    "firebase_url": "https://futsalmatch-6b1e1.firebaseio.com",
+    "project_id": "futsalmatch-6b1e1",
+    "storage_bucket": "futsalmatch-6b1e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547034874066:android:6cc76cf9f94ae660",
+        "android_client_info": {
+          "package_name": "com.example.allvan_pc.futsal_match"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547034874066-fo6vilvgdth8qi3muov4s9h0dr0t2428.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYv0LkRm577NQpgJT1Mov_WK1nICe3LiM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
