@@ -14,7 +14,6 @@ import com.google.firebase.database.FirebaseDatabase;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
 
-    private static final String TAG = ;
     private Button mSendData;
     private EditText mUsername;
     private EditText mPassword;
