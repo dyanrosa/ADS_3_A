@@ -11,6 +11,8 @@
 	1. Lebih mengenal tim lain (tidak langsung)
 	2. Memudahkan pemesanan (efek langsung)
 	3. Mempersingkat waktu antar pertandingan (efek langsung)
+	4. Memudahkan pre-play atau persiapan bermain meliputi lokasi, player, harga (efek langsung)
 -Special Issue :
 	1. Sistem dibangun dengan platform android
 	2. Sistem memberi informasi promo
+	3. Sistem update informasi real-time
