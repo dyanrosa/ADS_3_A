@@ -2,12 +2,15 @@ USECASE
 1. User
 - Melakukan login user
 - Mencari tempat futsal
+- Melihat informasi tempat futsal
 - Memilih tanggal
 - Melihat jadwal
 - Membuat room
+- Mengatur room
 - Mengkonfirmasi user join
 - Melihat profil pemain lain
 - Melaporkan pemain
+
 
 2. Admin Tempat Futsal
 - Melakukan login pemilik
